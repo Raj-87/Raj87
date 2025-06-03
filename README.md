@@ -20,8 +20,6 @@ Exploratory analysis using Pandas & Matplotlib
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giri-Raj&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - 📧 girirajsahu2485@gmail.com  
