@@ -5,10 +5,10 @@
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Java, Python, C, C++
+- **Languages:** Java, Python, C
 - **Databases:** MySQL, SQL
-- **Tools:** Eclipse, VS Code, Microsoft Excel
-- **Concepts:** OOP, Data Structures, DBMS, Agile
+- **Tools:**  VS Code, Microsoft Excel
+- **Concepts:** OOP, Data Structures, DBMS
 
 ## 🛠️ Projects
 
